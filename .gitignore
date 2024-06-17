@@ -1,6 +1,6 @@
 # created by virtualenv automatically
-./Lib
-./Library
-./Scripts
-./share
-./pyvenv.cfg
+Lib/
+Library/
+Scripts/
+share/
+pyvenv.cfg
